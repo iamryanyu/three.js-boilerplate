@@ -10,7 +10,7 @@ It provides pre-defined:
 - camera
 - lights
 - renderer
-- handing resize
+- handling resize
 - loop
 
 ## HTML
