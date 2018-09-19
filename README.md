@@ -13,6 +13,10 @@ It provides pre-defined:
 - handling resize
 - loop
 
+And also:
+- State.js
+- dat.GUI
+
 ## HTML
 
 Create an element with an id `world`.
