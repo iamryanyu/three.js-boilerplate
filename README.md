@@ -15,7 +15,7 @@ It provides pre-defined:
 
 And also:
 - [state.js](https://github.com/mrdoob/stats.js/)
-- [dat.GUI] (https://github.com/dataarts/dat.gui)
+- [dat.GUI](https://github.com/dataarts/dat.gui)
 
 ## HTML
 
