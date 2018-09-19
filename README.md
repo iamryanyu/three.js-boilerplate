@@ -14,8 +14,8 @@ It provides pre-defined:
 - loop
 
 And also:
-- State.js
-- dat.GUI
+- [state.js](https://github.com/mrdoob/stats.js/)
+- [dat.GUI] (https://github.com/dataarts/dat.gui)
 
 ## HTML
 
